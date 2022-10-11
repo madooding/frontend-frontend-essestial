@@ -1,0 +1,43 @@
+{
+  "name": "madooding-s-frontend-essential-extensions",
+  "displayName": "madooding's frontend essential extensions",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "bradgashler.htmltagwrap", 
+    "bradlc.vscode-tailwindcss", 
+    "christian-kohler.npm-intellisense", 
+    "christian-kohler.path-intellisense", 
+    "dariofuzinato.vue-peek", 
+    "dbaeumer.vscode-eslint", 
+    "eamodio.gitlens", 
+    "ecmel.vscode-html-css", 
+    "eg2.vscode-npm-script", 
+    "eriklynd.json-tools", 
+    "esbenp.prettier-vscode", 
+    "formulahendry.auto-close-tag", 
+    "formulahendry.auto-rename-tag", 
+    "gencer.html-slim-scss-css-class-completion", 
+    "JerryHong.autofilename", 
+    "mohsen1.prettify-json", 
+    "mrmlnc.vscode-scss", 
+    "octref.vetur", 
+    "raidou.calc", 
+    "sdras.vue-vscode-snippets", 
+    "sibiraj-s.vscode-scss-formatter", 
+    "steoates.autoimport", 
+    "stylelint.vscode-stylelint", 
+    "syler.sass-indented", 
+    "Tyriar.lorem-ipsum", 
+    "vincaslt.highlight-matching-tag", 
+    "VisualStudioExptTeam.intellicode-api-usage-examples", 
+    "VisualStudioExptTeam.vscodeintellicode", 
+    "wayou.vscode-todo-highlight"
+  ]
+}
